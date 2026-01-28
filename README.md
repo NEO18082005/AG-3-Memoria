@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+# 📸 Neural Canvas Generative Gallery
+A modern, responsive image gallery web application built with cutting-edge web technologies. Neural Canvas Gallery provides a sleek interface for browsing, showcasing, and managing images with a focus on performance and user experience.
 
-## Project info
+# 🚀 Features
+• Responsive Design – Works seamlessly across desktop, tablet, and mobile devices.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+• Dynamic Gallery – Displays images in a clean, grid-based layout.
 
-## How can I edit this code?
+• Interactive UI – Smooth transitions, hover effects, and intuitive navigation.
 
-There are several ways of editing your application.
+• Fast & Lightweight – Optimized for speed and minimal resource usage.
 
-**Use Lovable**
+• Scalable Architecture – Easy to extend with new features or integrate with APIs.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+# 🛠️ Tech Stack
+• Frontend: HTML5, CSS3, JavaScript (React/Next.js if applicable)
 
-Changes made via Lovable will be committed automatically to this repo.
+• Styling: TailwindCSS / Custom CSS
 
-**Use your preferred IDE**
+• Deployment: Vercel (Live Demo hosted)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+# 🌐 Live Demo
+👉🏻 https://ag3-neural-canvas-gallery.vercel.app/
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+# 📂 Repository
+Source code available here: Neural-Canvas-Generative-Gallery GitHub Repo [(github.com in Bing)](https://github.com/NEO18082005/Neural-Canvas-Generative-Gallery)
 
-Follow these steps:
+# ⚙️ Installation & Setup
+Follow these steps to run the project locally:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+bash
+# Clone the repository
+git clone https://github.com/NEO18082005/Neural-Canvas-Generative-Gallery.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate into the project directory
+cd Neural-Canvas-Generative-Gallery
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server
 npm run dev
-```
+The app will be available at http://localhost:3000.
 
-**Edit a file directly in GitHub**
+📸 Screenshots
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+<img width="1885" height="1080" alt="Screenshot 2026-01-27 222134" src="https://github.com/user-attachments/assets/c30a3b73-3d5c-4ceb-a6d1-f62cd38b700e" />
 
-**Use GitHub Codespaces**
+<img width="1893" height="908" alt="Screenshot 2026-01-28 110615" src="https://github.com/user-attachments/assets/2160d199-e6a4-40d4-a5da-c9570ec193f4" />
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+<img width="1920" height="1080" alt="Screenshot 2026-01-28 110721" src="https://github.com/user-attachments/assets/ee401032-22a9-4e0c-afb8-9e97f0fa1042" />
 
-## What technologies are used for this project?
+<img width="1920" height="1080" alt="Screenshot 2026-01-28 110748" src="https://github.com/user-attachments/assets/ee7c6183-eae8-439f-bbed-5a8381306991" />
 
-This project is built with:
+<img width="1920" height="1080" alt="Screenshot 2026-01-28 110740" src="https://github.com/user-attachments/assets/f00ce558-63ba-47d7-858f-a6efde5fb20c" />
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+# ✨ Contributing
+Contributions are welcome!
+If you’d like to improve Neural Canvas Generative Gallery, feel free to fork the repo and submit a pull request.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## 📜 License
 
-## Can I connect a custom domain to my Lovable project?
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+# 🧑🏻‍💻 Author
+Developed by NEO18082005 https://github.com/NEO18082005
+Passionate about building modern, user-friendly web applications.
